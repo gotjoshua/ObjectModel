@@ -592,6 +592,7 @@ table th {
   position: relative;
 }
 .panel pre {
+  padding: 2px;
   margin: 0;
   font-size: 90%;
 }
